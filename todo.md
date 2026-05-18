@@ -17,13 +17,13 @@ Purpose: Define why content exists, who it serves, where it belongs, how long it
 
 ## 2. Add `digital-service-design/`
 
-- [ ] Create `digital-service-design/SKILL.md`
-- [ ] Add `subskills/service-journeys.md`
-- [ ] Add `subskills/task-flows.md`
-- [ ] Add `subskills/forms-and-transactions.md`
-- [ ] Add `subskills/eligibility-and-requirements.md`
-- [ ] Add `subskills/status-confirmation-next-steps.md`
-- [ ] Add `subskills/failure-states.md`
+- [X] Create `digital-service-design/SKILL.md`
+- [X] Add `subskills/service-journeys.md`
+- [X] Add `subskills/task-flows.md`
+- [X] Add `subskills/forms-and-transactions.md`
+- [X] Add `subskills/eligibility-and-requirements.md`
+- [X] Add `subskills/status-confirmation-next-steps.md`
+- [X] Add `subskills/failure-states.md`
 
 Purpose: Improve resident task completion for services such as applying, paying, reporting, requesting, registering, appealing, contacting, or checking eligibility.
 
