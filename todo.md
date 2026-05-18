@@ -4,14 +4,14 @@ Goal: Build a holistic collection of reusable skills for County of Marin digital
 
 ## 1. Add `content-strategy/`
 
-- [ ] Create `content-strategy/SKILL.md`
-- [ ] Add `subskills/content-types.md`
-- [ ] Add `subskills/audience-intent.md`
-- [ ] Add `subskills/page-purpose.md`
-- [ ] Add `subskills/content-lifecycle.md`
-- [ ] Add `subskills/editorial-calendar.md`
-- [ ] Add `subskills/content-audit.md`
-- [ ] Add `subskills/metadata-taxonomy.md`
+- [X] Create `content-strategy/SKILL.md`
+- [X] Add `subskills/content-types.md`
+- [X] Add `subskills/audience-intent.md`
+- [X] Add `subskills/page-purpose.md`
+- [X] Add `subskills/content-lifecycle.md`
+- [X] Add `subskills/editorial-calendar.md`
+- [X] Add `subskills/content-audit.md`
+- [X] Add `subskills/metadata-taxonomy.md`
 
 Purpose: Define why content exists, who it serves, where it belongs, how long it should live, and how success is measured.
 
