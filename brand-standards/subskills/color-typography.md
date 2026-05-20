@@ -6,7 +6,9 @@ This sub-skill covers visual design standards only. Do not include accessibility
 
 ## Color principles
 
-Use the County palette from the published Identity Style Guide as the controlling visual reference. When exact color values are needed, use the official guide or a supplied brand file rather than estimating from screenshots.
+Use the County palette from the published Identity Style Guide as the controlling visual reference.
+
+When exact color values are needed, use the official guide, the values below, or a supplied brand file rather than estimating from screenshots.
 
 Apply color as follows:
 
@@ -15,6 +17,52 @@ Apply color as follows:
 - Avoid arbitrary colors that are not in the County palette unless the asset has a documented campaign or program-specific palette.
 - Maintain a clear hierarchy between headings, body text, labels, captions, and calls to action.
 - Treat color as a support for meaning, not the only way meaning is expressed.
+- Use only the approved foreground/background combinations below when giving specific color recommendations.
+
+## County color palette and permitted text/background uses
+
+| Color | HEX | Background with white font | Background with black font | Can be used as font color |
+|---|---:|:---:|:---:|:---:|
+| Blue | `#0777cf` | Yes | Yes | Yes |
+| Dark Gray | `#6f6f6f` | Yes | No | Yes |
+| Light Gray | `#a9a9a9` | No | Yes | No |
+| Red | `#b45340` | Yes | No | Yes |
+| Green | `#73784a` | Yes | Yes | Yes |
+| Brown | `#a2662b` | Yes | Yes | Yes |
+| Black | `#000000` | Yes | No | Yes |
+| Gold | `#e5b53b` | No | Yes | No |
+
+## Color use rules
+
+### Background colors
+
+Use these combinations when specifying a colored background with text:
+
+- Blue `#0777cf`: may use white or black text.
+- Dark Gray `#6f6f6f`: use white text only.
+- Light Gray `#a9a9a9`: use black text only.
+- Red `#b45340`: use white text only.
+- Green `#73784a`: may use white or black text.
+- Brown `#a2662b`: may use white or black text.
+- Black `#000000`: use white text only.
+- Gold `#e5b53b`: use black text only.
+
+Do not recommend white text on Light Gray or Gold. Do not recommend black text on Dark Gray, Red, or Black.
+
+### Font colors
+
+These palette colors may be used as text/font colors:
+
+- Blue `#0777cf`
+- Dark Gray `#6f6f6f`
+- Red `#b45340`
+- Green `#73784a`
+- Brown `#a2662b`
+- Black `#000000`
+
+Do not use Light Gray `#a9a9a9` or Gold `#e5b53b` as font colors.
+
+When using a palette color as a font color, use it for headings, labels, links, short emphasis, or visual hierarchy. Do not overuse colored body copy.
 
 ## Typography standards
 
@@ -50,6 +98,7 @@ For charts, dashboards, maps, and diagrams:
 
 - Use County palette colors when feasible.
 - Use the fewest colors needed to distinguish categories.
+- Use permitted font colors and permitted foreground/background combinations from this sub-skill.
 - Label directly where practical.
 - Use consistent units, axes, legends, and captions.
 - Avoid heavy gradients, 3D effects, texture fills, and decorative chartjunk.
@@ -69,6 +118,8 @@ For charts, dashboards, maps, and diagrams:
 Ask:
 
 - Are colors drawn from the County palette or an approved campaign palette?
+- Are background/text pairings permitted by the County color guidance?
+- Are Light Gray and Gold avoided as font colors?
 - Are fonts consistent with County guidance or the supplied template?
 - Is the hierarchy clear at a glance?
 - Are charts and diagrams visually restrained and readable?
@@ -81,5 +132,5 @@ When reviewing color and typography, report:
 
 1. What matches County guidance.
 2. What is noncompliant or unverifiable.
-3. Specific replacements, such as font family, heading scale, palette role, or chart treatment.
+3. Specific replacements, such as font family, heading scale, palette role, chart treatment, or foreground/background color pair.
 4. Whether exact official color values or templates are needed.

@@ -22,6 +22,23 @@ This checklist excludes accessibility requirements because those are handled by 
 - [ ] Accent colors are used sparingly and consistently.
 - [ ] Color supports hierarchy and meaning.
 - [ ] Backgrounds do not visually fight with the logo or text.
+- [ ] Background/text pairings follow County color guidance:
+  - [ ] Blue `#0777cf` may use white or black text.
+  - [ ] Dark Gray `#6f6f6f` uses white text only.
+  - [ ] Light Gray `#a9a9a9` uses black text only.
+  - [ ] Red `#b45340` uses white text only.
+  - [ ] Green `#73784a` may use white or black text.
+  - [ ] Brown `#a2662b` may use white or black text.
+  - [ ] Black `#000000` uses white text only.
+  - [ ] Gold `#e5b53b` uses black text only.
+- [ ] Font colors are limited to approved font-color palette values:
+  - [ ] Blue `#0777cf`
+  - [ ] Dark Gray `#6f6f6f`
+  - [ ] Red `#b45340`
+  - [ ] Green `#73784a`
+  - [ ] Brown `#a2662b`
+  - [ ] Black `#000000`
+- [ ] Light Gray `#a9a9a9` and Gold `#e5b53b` are not used as font colors.
 - [ ] Charts use a restrained number of colors.
 - [ ] Decorative gradients, textures, or shadows are avoided unless part of an approved template.
 
@@ -56,6 +73,7 @@ This checklist excludes accessibility requirements because those are handled by 
 - [ ] Title slide, section slides, and end slide use consistent County identity.
 - [ ] Slides are not overcrowded.
 - [ ] Charts and diagrams use clear labeling and County-appropriate styling.
+- [ ] Background/text pairings follow the County color guidance.
 
 ### Social media
 
@@ -90,17 +108,21 @@ Use this format:
 **Overall status:** compliant / mostly compliant / needs revision / cannot verify
 
 **Required fixes:**
+
 1. ...
 2. ...
 
 **Design-standard notes:**
+
 - Logo/identity:
 - Color:
 - Typography:
 - Layout/media:
 
 **Missing assets or approvals:**
+
 - ...
 
 **Out of scope for this skill:**
+
 - Accessibility review should be handled by the separate accessibility skills.

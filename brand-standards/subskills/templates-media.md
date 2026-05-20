@@ -10,7 +10,7 @@ This sub-skill covers visual design standards only. It intentionally omits acces
 - Preserve official logo placement and proportions.
 - Do not use the County logo as a watermark, background texture, decorative pattern, or repeated motif unless the official template already does so.
 - Keep layouts simple, aligned, and structured.
-- Use County colors and type guidance consistently.
+- Use County colors and type guidance consistently, including the permitted foreground/background pairings and font-color rules in `subskills/color-typography.md`.
 - Do not invent campaign marks, lockups, seals, taglines, or department logos.
 
 ## Email signatures
